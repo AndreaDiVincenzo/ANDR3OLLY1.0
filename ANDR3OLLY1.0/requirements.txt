@@ -1,4 +1,0 @@
-pynput
-requests
-qrcode
-wifi-qrcode-generator

@@ -36,7 +36,7 @@ time.sleep(2.0)
 
 
 def menù():
-        print("\n 0) TO EXIT \n 1) BMI CALCULATOR \n 2) PASSWORD GENERATOR \n 3) CURRENCY CONVERTER \n 4) QR CODE GENERATOR \n 5) WEATHER FORECAST")
+        print("\n 0) TO EXIT \n 1) BMI CALCULATOR \n 2) PASSWORD GENERATOR \n 3) CURRENCY CONVERTER \n 5) WEATHER FORECAST")
         scelta = input("\n Choose wich option do you wanna use: ")
 
         
